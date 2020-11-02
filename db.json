@@ -1,0 +1,14 @@
+{
+    "locations": [
+        {
+            "address": "Address 1",
+            "lat": 45.0,
+            "lon": 46.0
+        },
+        {
+            "address": "Address 2",
+            "lat": 45.0,
+            "lon": 46.0
+        }
+    ]
+}
